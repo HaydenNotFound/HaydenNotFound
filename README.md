@@ -1,20 +1,5 @@
 <h1 align="center">🔐 Cybersecurity </h1>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Cybersecurity-blue?style=for-the-badge&logo=security&logoColor=white">
-  <img src="https://img.shields.io/badge/Reverse%20Engineering-✔️-green?style=for-the-badge">
-  <img src="https://img.shields.io/badge/OSINT-🕵️‍♂️-purple?style=for-the-badge">
-</p>
-
----
-
-## 🛡️ About Me  
-I am a **Cybersecurity Specialist** with a strong focus on **Reverse Engineering**, **OSINT**, and **Binary Analysis**. Passionate about system security, exploit development, and ethical hacking.  
-
-🕵️ Always on the hunt for vulnerabilities and security loopholes.  
-🔍 Passionate about deep system analysis, malware research, and exploit development.  
-💡 Believer in **"Security through knowledge"**.
-
 ---
 
 ## 🧩 Skills  
@@ -47,5 +32,5 @@ I am a **Cybersecurity Specialist** with a strong focus on **Reverse Engineering
 
 ## 📫 Contact  
 📩 **Email**: haydenwind404@gmail.com.com  
-🐙 **GitHub**: [yourusername](https://github.com/HaydenNotFound)  
+🐙 **GitHub**: [HaydenNotFound](https://github.com/HaydenNotFound)  
 
