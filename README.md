@@ -31,6 +31,6 @@
 ---
 
 ## 📫 Contact  
-📩 **Email**: haydenwind404@gmail.com.com  
+📩 **Email**: haydenwind404@gmail.com
 🐙 **GitHub**: [HaydenNotFound](https://github.com/HaydenNotFound)  
 
